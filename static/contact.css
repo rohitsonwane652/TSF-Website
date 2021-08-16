@@ -1,0 +1,25 @@
+#contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+#contact input{
+    margin: 6px 0px;
+    padding: 14px 4px;
+    height: 3px;
+    width: 572px;
+    border-radius: 5px;
+    outline: none;
+}
+
+button{
+    height: 42px;
+    width: 84px;
+    font-size: 19px;
+    padding: 6px 10px;
+    border-radius: 13px;
+    border-color: black;
+}

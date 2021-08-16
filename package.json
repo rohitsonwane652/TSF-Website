@@ -1,0 +1,17 @@
+{
+  "name": "tsf-intern",
+  "version": "1.0.0",
+  "description": "This is Internship website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  }
+}
